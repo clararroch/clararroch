@@ -1,10 +1,8 @@
 # Olá! Eu sou a Maria Clara Rocha Vieira
 
-Estudante de Tecnologia com experiência prática em **Suporte Técnico de TI**, adquirida durante estágio na Secretaria Municipal de Saúde de Forquilhinha. Prestei suporte a usuários nas unidades de saúde, com manutenções básicas, configurações de equipamentos e orientações técnicas.
+Sou uma profissional dedicada com sólida formação em suporte técnico de TI, infraestrutura de sistemas e redes de computadores. Possuo competências em manutenção de equipamentos, resolução de problemas técnicos e atendimento ao usuário, com experiência prática em ambientes de TI pública.
 
-Também atuei como recepcionista, realizando atendimento ao público, organização de processos e apoio a programas de inserção no mercado de trabalho.
-
-Atualmente busco oportunidades para crescer profissionalmente na área de **Tecnologia da Informação**, com interesse especial em suporte técnico, redes e infraestrutura.
+Atualmente, busco oportunidades na área de Tecnologia da Informação, com foco em suporte técnico, infraestrutura de TI ou áreas correlatas. Sou flexível, adaptável a novos desafios e comprometida em aplicar meu conhecimento técnico aliado a habilidades interpessoais para contribuir com eficiência e profissionalismo em qualquer equipe de tecnologia.
 
 ---
 
