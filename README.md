@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou a Maria Clara Rocha Vieira
 
-<!--
-**clararroch/clararroch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia com experiência prática em **Suporte Técnico de TI**, adquirida durante estágio na Secretaria Municipal de Saúde de Forquilhinha. Prestei suporte a usuários nas unidades de saúde, com manutenções básicas, configurações de equipamentos e orientações técnicas.
 
-Here are some ideas to get you started:
+Também atuei como recepcionista, realizando atendimento ao público, organização de processos e apoio a programas de inserção no mercado de trabalho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente busco oportunidades para crescer profissionalmente na área de **Tecnologia da Informação**, com interesse especial em suporte técnico, redes e infraestrutura.
+
+---
+
+**Contato:**
+- Email: mariarochh67@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/maria-clara-rocha-vieira-053871310)
+
+---
+
+Obrigada pela visita!
